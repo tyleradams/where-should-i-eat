@@ -9,6 +9,8 @@ class WelcomeController < ApplicationController
     "https://foursquare.com/v/local/4a3ba618f964a520ada01fe3",
     "https://foursquare.com/v/alidoro/43446900f964a52073281fe3",
     "https://foursquare.com/v/genuine-superette/552dcb17498e0297991cbaa7",
+    "https://foursquare.com/v/lucky-strike/3fd66200f964a52044e91ee3",
+    "https://foursquare.com/v/b--b-winepub-burger--barrel/4c9a8eccd4b1b1f7314dd135",
   ]
 
   def index
